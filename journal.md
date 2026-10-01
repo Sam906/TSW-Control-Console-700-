@@ -15,7 +15,8 @@ To identify what components are needed and their approximate location, I used th
 Attached below is my first design.
 Also attatched is a timelapse of this design phase: lapse.hackclub.com/timelapse/-fPWmEi31AXu
 
-<img width="1884" height="4080" alt="20261001_203241" src="https://github.com/user-attachments/assets/30e957b7-1b21-4f4b-b53f-03ad8cde0d2c" />
+<img width="1884" height="4080" alt="20261001_194948" src="https://github.com/user-attachments/assets/5991f4a9-f925-4253-951f-21f1314e63d4" />
+
 
 # INITIAL IDEAL PARTS LIST & APROX. DIMENSIONS # 
 I compiled a rough list of all my parts. It's a mix of push buttons, selector knobs and key switches. Most use screw terminals and a few soldering terminals. I've done this before with previous projects so I know what to do. I am also planning to use the same sort of components from previous projects as I am familiar with them and know they are good quality! I have wrote them out here but also attached my IRL workings.
@@ -43,7 +44,7 @@ That's all for today but tomorrow I will most likely compile a list of exact par
 
 The attached timelapse shows me designing my first sketch. Also attached you can find my initial parts list, but i did re-write it here as well.
 
+<img width="1884" height="4080" alt="20261001_203241" src="https://github.com/user-attachments/assets/30e957b7-1b21-4f4b-b53f-03ad8cde0d2c" />
 
-<img width="1884" height="4080" alt="20261001_194948" src="https://github.com/user-attachments/assets/5991f4a9-f925-4253-951f-21f1314e63d4" />
 TOTAL TIME: 1 HOUR
 
