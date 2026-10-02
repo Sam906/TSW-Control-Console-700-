@@ -1,9 +1,8 @@
 
-title: TSW Controll Console (700)
-github: https://github.com/Sam906/TSW-Control-Console-700-
-description: A physical console for controlling a class 700 in Tran sim world.
-created_at: 01/10/26
-total_time: 1h
+# TSW Controll Console (700) #
+A physical console for controlling a class 700 in Tran sim world.
+Project start date: 01/10/26
+Total time: 1 Hour
 
 
 # October 1st - Getting started with the design & parts #
