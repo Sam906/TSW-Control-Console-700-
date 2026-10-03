@@ -1,6 +1,6 @@
 # BILL OF MATERIALS #
 I've compiled a list of materials I will be using to make the console. This list features their size, where I'm buying it from and extra technical details. I'll split them into categories like push buttons, selector knobs etc.
-
+- **All compoments are NORMALY OPEN**
 # SELECTOR KNOBS #
 
 - **1x** 2 Position Latching **22MM**  [Buy here](https://www.aliexpress.com/item/1005006827053825.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.4.5f6bwANbwANbnM&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=b3180ade-4e4e-45e9-b26e-844fdf2133c1&_t=gps-id%3ApcDetailTopMoreOtherSeller%2Cscm-url%3A1007.40050.354490.0%2Cpvid%3Ab3180ade-4e4e-45e9-b26e-844fdf2133c1%2Ctpp_buckets%3A668%232846%238113%231998&pdp_ext_f=%7B%22order%22%3A%221705%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21GBP%212.58%211.80%21%21%213.30%212.30%21%40210384a717909589522711121e0d41%2112000051299186627%21rec%21UK%217810077171%21XZ%211%210%21n_tag%3A-29919%3Bd%3A804ed0b7%3Bm03_new_user%3A-29895%3BpisId%3A5000000218585378&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005006827053825%7C_p_origin_prod%3A)
