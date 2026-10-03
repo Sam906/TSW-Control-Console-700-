@@ -3,16 +3,13 @@ title: "Train Sim World Control Panel for Class 700"
 github: "https://github.com/Sam906/TSW-Control-Console-700-"
 description: "This console will be controlled by an arduino Leonardo, and feature components such as push buttons, estops and toggle switches.  I'm a big fan of trains in general and have always liked playing train simulator. However, it did get quite repetitive and boring. So, having a physical console would make the play experience alot more realistic and enjoyable. Unfortunately, due to different layouts and throttle designs ranging from train to train, I can't use this for all of my trains. "
 created_at: "2026-10-01"
-total_time: "4h"
+total_time: "7h"
 ---
 
 # TSW Controll Console (700) #
 A physical console for controlling a class 700 in Tran sim world.
 Project start date: 01/10/26
 Total time: 1 Hour
-
-
-
 
 # October 1, 2026: Getting Started - Initial plan - 1st October 2026
 <!-- fabricate:entry 58 -->
@@ -22,8 +19,11 @@ The sketch includes the dimensions of the 3D printed casing, the locations of ea
 So far, I have planned for 17 components, all controlled by an arduino Leonardo. No python code is needed to run on the computer for this to work as i'm intending to use this console as a HID.
 To identify what components are needed and their approximate location, I used this attached image online and also had a look in the actual game. 
 
-Attached below is my first design.
+![](https://fabricate.hackclub-assets.com/7565adc26fb886e114e00109b60562e59d942970493d4c9670ace980ec75b2ba/class700%20interior.webp)
 
+Here is my frist sketch of the compoments layout:
+
+![](https://fabricate.hackclub-assets.com/5bd343ab3dbfdd3fb7b76ebd791a6c07e88a24a7ff71e23fca2eab91d3f2f885/20261001_194948.jpg)
 
 ## INITIAL IDEAL PARTS LIST & APROX. DIMENSIONS #
 I compiled a rough list of all my parts. It's a mix of push buttons, selector knobs and key switches. Most use screw terminals and a few soldering terminals. I've done this before with previous projects so I know what to do. I am also planning to use the same sort of components from previous projects as I am familiar with them and know they are good quality! I have wrote them out here but also attached my IRL workings.
@@ -53,6 +53,10 @@ That's all for today but tomorrow I will most likely compile a list of exact par
 The attached timelapse shows me designing my first sketch. Also attached you can find my initial parts list, but i did re-write it here as well. 
 
 
+![](https://fabricate.hackclub-assets.com/c9235ad61238125f58bae710d005ab857df448a20877eeed0d6fcbb552673e45/20261001_203241.jpg)
+
+Timelapse: https://lapse.hackclub.com/timelapse/-fPWmEi31AXu
+
 
 ![](https://fabricate.hackclub-assets.com/7565adc26fb886e114e00109b60562e59d942970493d4c9670ace980ec75b2ba/class700%20interior.webp)
 ![](https://fabricate.hackclub-assets.com/5bd343ab3dbfdd3fb7b76ebd791a6c07e88a24a7ff71e23fca2eab91d3f2f885/20261001_194948.jpg)
@@ -74,5 +78,26 @@ Check [BOM.md](https://github.com/Sam906/TSW-Control-Console-700-/blob/main/BOM.
 
 ![](https://fabricate.hackclub-assets.com/af79eb672dc2320a305d8a3e2bdb27bb00ca00bd9ec332235c3543a54fe9460a/tswcontrol%20console%20parts%201.png)
 ![](https://fabricate.hackclub-assets.com/b21ebd026c2e8dd529a48ce2b89e95b3faa24cce937d8b8def6453e90bdc63a1/Screenshot%202026-10-02%20230748.png)
+
+**Total time spent: 3h**
+
+# October 3, 2026: Modeled up the main case and did some tests!
+<!-- fabricate:entry 101 -->
+
+Made some awesome progress today!
+I started by doing some research into making screws in fusion 360 for the mounting of the top section to the bottom section of the casing but i couldn't get it to work. So just know I just thought i could use an M3 screw to self tap into a hole in the casing to easily make the screws work. Just found a reddit post saying the hole should be ~2.5-2.7mm so will be doing a test print later - will let you know how it turned out next journal log.
+
+I then moved onto the snapping part of the case. The panel is split in two so I needed to test a way to join them together. I ran two test prints, with different clearances. My first had 1mm of clearance - way too much! See here:
+![](https://fabricate.hackclub-assets.com/980b7c5f31d323cd9c570d058ad8f569912f1306aef511d6717042d0e38ba744/20261003_165036.jpg)
+And my second had 0.5mm of clearance - perfect!
+See here:
+![](https://fabricate.hackclub-assets.com/b4d3b5e2546b57f0432bebeee2d63188691320fd8fbec7ea56f079f083494ece/20261003_165046.jpg)
+I then moved onto the actual case design - which i time lapsed. Take a look [here]()
+During that, I did make some modifications to my original design. I'm no longer using a joystick for the horn as I just couldn't figure out how I'd mount it to my case, so I'm just gonna use a button instead - I have updated BOM.md but NOT updated the google doc picture i had in my last journal, so be mindful of that. In terms of the potentiometer, I'm going to print a sort of frame around it then use super glue to stick it to the case. I've done something very similar before and it worked out amazing! Quick note, the potentiometer I planned to buy SOLD OUT so i'm just gonna use one I have here at home that I was saving for another project but that's ok. It does also reduce the cost! I'll keep it linked in BOM.md
+I did also just print a test piece for the handle of the potentiometer, and I need to make it 0.5mm on each side wider and a bit longer by about 4mm. Its really tiny but I will make it bigger for the finished product, this is of course just a test piece! Take a look:
+![](https://fabricate.hackclub-assets.com/4e058575902282ab809f770c058c06f5244f6e4f4afb279fc8ce7816edf10759/20261003_165105.jpg)
+That's all for now, but I will do some more progress later in the day. I will log that later. I wanted to get this down before I forgot it haha
+
+Timelapse: https://lapse.hackclub.com/timelapse/s7sRHozJ2O6O
 
 **Total time spent: 3h**
