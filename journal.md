@@ -3,7 +3,7 @@ title: "Train Sim World Control Panel for Class 700"
 github: "https://github.com/Sam906/TSW-Control-Console-700-"
 description: "This console will be controlled by an arduino Leonardo, and feature components such as push buttons, estops and toggle switches.  I'm a big fan of trains in general and have always liked playing train simulator. However, it did get quite repetitive and boring. So, having a physical console would make the play experience alot more realistic and enjoyable. Unfortunately, due to different layouts and throttle designs ranging from train to train, I can't use this for all of my trains. "
 created_at: "2026-10-01"
-total_time: "7h"
+total_time: "8h"
 ---
 
 # TSW Controll Console (700) #
@@ -57,7 +57,6 @@ The attached timelapse shows me designing my first sketch. Also attached you can
 
 Timelapse: https://lapse.hackclub.com/timelapse/-fPWmEi31AXu
 
-
 **Total time spent: 1h**
 
 # October 2, 2026: Gathered list of parts & Began precise Birds eye design
@@ -95,3 +94,16 @@ That's all for now, but I will do some more progress later in the day. I will lo
 Timelapse: https://lapse.hackclub.com/timelapse/s7sRHozJ2O6O
 
 **Total time spent: 3h**
+
+# October 4, 2026: Wired it up!
+<!-- fabricate:entry 122 -->
+
+So I learnt kicad! It's actually really fun to wire up my components. I time lapsed my session of wiring everything. However, I had to **remove** 3 components as the the Leonardo didn't have enough digital pins, and it got super expensive having these switches! Besides, i'd only use the switches once in my journey when operating a train so it really doesn't matter. I do have to edit the parts list, layout and cad file but that's not an issue. I also spent like 30 mins learning a bunch about screws. i'm going back to that idea for the main casing. I will print some tests of later as im currently printed something. My next journal log will most likely showcasing the finished CAD product. Then after will be the code. But overall, good progress!
+
+Timelapse link : https://lapse.hackclub.com/timelapse/SkCTx7vOoFKG
+
+![](https://fabricate.hackclub-assets.com/e6956bb0475d8faa924755c4c15e3b54cf7859555cb6025cd5fcb7b70ac117d7/Screenshot%202026-10-04%20152759.png)
+
+Timelapse: https://lapse.hackclub.com/timelapse/SkCTx7vOoFKG
+
+**Total time spent: 1h**
