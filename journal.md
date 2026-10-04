@@ -58,12 +58,6 @@ The attached timelapse shows me designing my first sketch. Also attached you can
 Timelapse: https://lapse.hackclub.com/timelapse/-fPWmEi31AXu
 
 
-![](https://fabricate.hackclub-assets.com/7565adc26fb886e114e00109b60562e59d942970493d4c9670ace980ec75b2ba/class700%20interior.webp)
-![](https://fabricate.hackclub-assets.com/5bd343ab3dbfdd3fb7b76ebd791a6c07e88a24a7ff71e23fca2eab91d3f2f885/20261001_194948.jpg)
-![](https://fabricate.hackclub-assets.com/c9235ad61238125f58bae710d005ab857df448a20877eeed0d6fcbb552673e45/20261001_203241.jpg)
-
-Timelapse: https://lapse.hackclub.com/timelapse/-fPWmEi31AXu
-
 **Total time spent: 1h**
 
 # October 2, 2026: Gathered list of parts & Began precise Birds eye design
